@@ -1,0 +1,6 @@
+JoueursInformations:
+hh
+Génération Fichier:
+gen1
+Unités:
+1:Pégase,2:Caravane,1:Pégase,2:Archer,;1:Pégase,2:Caravane,2:Archer,1:Galère,1:Pégase,2:Caravane,2:Archer,1:Galère,;
